@@ -9,6 +9,6 @@
 - 🤔 I’m looking for help with ... Apreder e dominar novas linguagens
 - 💬 Ask me about ... Qualquer coisa relacionado a tecnologia ou astronomia
 - 📫 How to reach me: ... giovane305pereira@gmail.com, (31)996997780 - Whatsapp 
-- 😄 Pronouns: ...ELE
+- ❤️ My Passion: ...ELE
 - ⚡ Fun fact: ... Bebo pouco café, há quem diga que não sou um dev raiz 
 
