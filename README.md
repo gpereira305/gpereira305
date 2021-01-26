@@ -1,7 +1,7 @@
 ### Olá, Seja bem vindo ao meu perfil! 👋
  
 
-Here are some ideas to get you started:
+ 
 
 - 🔭 I’m currently working on ... Estudando fullStack web development
 - 🌱 I’m currently learning ... Javascript OOP, React.Js e Node.JS
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... giovane305pereira@gmail.com, (31)996997780 - Whatsapp 
 - 😄 Pronouns: ...ELE
 - ⚡ Fun fact: ... Bebo pouco café, há quem diga que não sou um dev raiz 
--->
+
