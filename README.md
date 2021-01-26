@@ -10,5 +10,6 @@
 - 💬 Ask me about ... Qualquer coisa relacionado a tecnologia ou astronomia
 - 📫 How to reach me: ... giovane305pereira@gmail.com, (31)996997780 - Whatsapp 
 - ❤️  My Passion: ... Atronomia/Inteligência Artificial
+- 🎮 My free time ... Jogar video game
 - 🤣 Fun fact: ... Bebo pouco café, há quem diga que não sou um dev raiz 
 
