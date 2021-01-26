@@ -1,4 +1,5 @@
- Olá, Seja bem vindo ao meu perfil!  😁 
+
+  Olá, Seja bem vindo ao meu perfil! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"></h2>
  
 
  
