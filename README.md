@@ -31,5 +31,5 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
  
  
- ![Giovane Pereira's github stats](https://github-readme-stats.vercel.app/api?username=gpereira305&show_icons=true&theme=dark) 
+  ![Giovane Pereira's github stats](https://github-readme-stats.vercel.app/api?username=gpereira305&show_icons=true&theme=dark) 
 
