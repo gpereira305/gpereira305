@@ -29,12 +29,3 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
 
-<br/> 
-
-<h3> 🤝🏻 &nbsp;My Social Networks </h3>
-
-<p align="center"> 
-<a href="https://linkedin.com/in/giovane-pereira/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a> 
-<a href="mailto:giovane305pereira@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
-
