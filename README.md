@@ -4,7 +4,7 @@
  
 
 - 🔨 I’m currently working on ... Estudando fullStack web development
-- 🌱 I’m currently learning ... Javascript OOP, React.Js e Node.JS
+- 👨‍💻  I’m currently learning ... Javascript OOP, React.Js e Node.JS
 - 👯 I’m looking to collaborate on ... React.Js
 - 🤔 I’m looking for help with ... Aprender e dominar novas linguagens
 - 💬 Ask me about ... Qualquer coisa relacionado a tecnologia ou astronomia
