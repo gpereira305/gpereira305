@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on ... Projetos com React.Js
 - 🤔 I’m looking for help with ... Aprender e dominar novas linguagens
 - 💬 Ask me about ... Qualquer coisa relacionado a tecnologia ou astronomia
-- 📫 How to reach me: ... giovane305pereira@gmail.com, (31)996997780 - Whatsapp 
+- 📫 How to reach me: ... giovane305pereira@gmail.com, (41)989019065 - Whatsapp 
 - ❤️  My Passion ... Astronomia/Inteligência Artificial
 - 🎮 My free time ... Jogar video game
 - 🤣 Fun fact: ... Bebo pouco café, há quem diga que não sou um dev raiz 
@@ -33,3 +33,4 @@
   <br>
   ![Giovane Pereira's github stats](https://github-readme-stats.vercel.app/api?username=gpereira305&show_icons=true&theme=dark) 
 
+<a href="https://app.daily.dev/giovanepereira"><img src="https://api.daily.dev/devcards/59cf15c0292f4bd7a642f79175f7cc45.png?r=1r3" width="400" alt="Giovane Pereira's Dev Card"/></a>
