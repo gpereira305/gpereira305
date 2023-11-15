@@ -32,5 +32,4 @@
   <br>
   <br>
   ![Giovane Pereira's github stats](https://github-readme-stats.vercel.app/api?username=gpereira305&show_icons=true&theme=dark) 
-
-<a href="https://app.daily.dev/giovanepereira"><img src="https://api.daily.dev/devcards/59cf15c0292f4bd7a642f79175f7cc45.png?r=1r3" width="400" alt="Giovane Pereira's Dev Card"/></a>
+ 
