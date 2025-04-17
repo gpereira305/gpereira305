@@ -30,8 +30,10 @@
 
    <div>
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-     <a href="https://wa.me/5541989019065?text=Ol%C3%A1%2C%20obrigado%20pelo%20contato.%20Deixe%20sua%20mensagem%20e%20lhe%20retornarei%20assim%20que%20poss%C3%ADvel" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">
-       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> 
+       <a href="https://wa.me/5541989019065?text=Ol%C3%A1%2C%20obrigado%20pelo%20contato.%20Deixe%20sua%20mensagem%20e%20lhe%20retornarei%20assim%20que%20poss%C3%ADvel" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">
+    <a href="giovanepereira.dev@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> 
+    </a> 
     </a>
      
    </div> 
