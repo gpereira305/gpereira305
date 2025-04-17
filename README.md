@@ -29,21 +29,20 @@
    <h2>🔔 how to reach me</h2>
 
    <div>
-       <a href="https://wa.me/5541989019065?text=Ol%C3%A1%2C%20obrigado%20pelo%20contato.%20Deixe%20sua%20mensagem%20e%20lhe%20retornarei%20assim%20que%20poss%C3%ADvel" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> 
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> 
-    </a>  
-
-   <a href="mailto:giovanepereira.dev@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-   </a>
-
-
-     
+         <a href="https://wa.me/5541989019065?text=Ol%C3%A1%2C%20obrigado%20pelo%20contato.%20Deixe%20sua%20mensagem%20e%20lhe%20retornarei%20assim%20que%20poss%C3%ADvel" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> 
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> 
+      </a>  
+  
+     <a href="mailto:giovanepereira.dev@gmail.com">
+       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+     </a>
    </div> 
 
-   <h2>👨 Social</h2>
+   <h2>👨 Socials </h2>
    <div> 
-      
+      <a href="https://www.linkedin.com/in/giovane-pereira" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> 
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+      </a>  
    </div> 
 
 
