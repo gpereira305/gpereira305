@@ -9,8 +9,9 @@
 - 🎮 My free time ... Reading history books and playing video games 
 - 🤣 Fun fact: ... I don't drink much coffee
 
-
-
+</br>
+</br>
+</br>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
