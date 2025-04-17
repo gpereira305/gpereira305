@@ -9,6 +9,9 @@
 - 🎮 My free time ... Reading history books and playing video games 
 - 🤣 Fun fact: ... I don't drink much coffee
 
+
+
+
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
    <div>
@@ -24,6 +27,9 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
    </div> 
+
+
+
 
 
    <h2>👨 Socials </h2>
