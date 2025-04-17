@@ -2,8 +2,6 @@
   <h1>Hello there!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"></h1>
  
 
- 
-
 - 🔨 I’m currently working on ... Frontend projects
 - 👨‍💻 I’m currently learning ... JavaScript, TypeScript, React, NextJS and Node.JS
 - 👯 I’m looking to collaborate on ... JavaScript, TypesScript, React, Next and Vue JS projects 
@@ -13,8 +11,7 @@
 - 🤣 Fun fact: ... I don't drink much coffee
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
- 
- 
+
    <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -28,3 +25,26 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
    </div> 
+
+   <h2> 🛠 &nbsp;How To reach me</h2>
+
+    <div>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
