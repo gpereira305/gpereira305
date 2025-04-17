@@ -1,35 +1,32 @@
 
-  Olá, Seja bem vindo ao meu perfil!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"></h2>
+  Hi, Welcome to my Github profile!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"></h2>
  
 
  
 
-- 🔨 I’m currently working on ... Estudando fullStack web development (MERN Stack)
-- 👨‍💻  I’m currently learning ... Javascript, TypeScript, React.Js e Node.JS
-- 👯 I’m looking to collaborate on ... Projetos com React and Vue JS
-- 🤔 I’m looking for help with ... Aprender e dominar novas linguagens
-- 💬 Ask me about ... Qualquer coisa relacionado a tecnologia ou astronomia
-- 📫 How to reach me: ... giovane305pereira@gmail.com, (41)989019065 - Whatsapp 
-- ❤️  My Passion ... Astronomia/Inteligência Artificial
-- 🎮 My free time ... Jogar video game
-- 🤣 Fun fact: ... Tomo pouco café para um dev
+- 🔨 I’m currently working on ... Frontend projects
+- 👨‍💻  I’m currently learning ... Javascript, TypeScript, React, NextJS and Node.JS
+- 👯 I’m looking to collaborate on ... Projetos com React, Next and Vue JS
+- 🤔 I’m looking for help with ... Learning a new programming language 
+- 📫 How to reach me: ... giovanepereira.dev@gmail.com, (41)989019065 - Whatsapp 
+- ❤️  My Passion ... Programming, Inteligência Artificial and Astronomy
+- 🎮 My free time ... Reading history books and playing video games 
+- 🤣 Fun fact: ... I don't drink much coffee for a coder 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) 
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) 
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
-  <br>
-  <br>
-  ![Giovane Pereira's github stats](https://github-readme-stats.vercel.app/api?username=gpereira305&show_icons=true&theme=dark) 
  
+ 
+  
+   <div>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+    <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+   </div> 
