@@ -30,7 +30,10 @@
 
    <div>
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> 
+     <a href="https://wa.me/5541989019065" target="_blank" rel="noopener noreferrer">
+       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> 
+    </a>
+     
    </div> 
 
    <h2>👨 Social</h2>
