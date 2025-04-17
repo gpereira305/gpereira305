@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on ... Projetos com React, Next and Vue JS
 - 🤔 I’m looking for help with ... Learning a new programming language 
 - 📫 How to reach me: ... giovanepereira.dev@gmail.com, (41)989019065 - Whatsapp 
-- ❤️  My Passion ... Programming, Inteligência Artificial and Astronomy
+- ❤️  My Passion ... Programming, Artificial Intelligence and Astronomy
 - 🎮 My free time ... Reading history books and playing video games 
 - 🤣 Fun fact: ... I don't drink much coffee for a coder 
 
