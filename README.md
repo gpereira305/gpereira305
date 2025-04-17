@@ -1,5 +1,5 @@
 
-  Hi, Welcome to my Github profile!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"></h2>
+  <h1>Hi, I'm Giovane Pereira!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"></h1>
  
 
  
@@ -13,10 +13,9 @@
 - 🎮 My free time ... Reading history books and playing video games 
 - 🤣 Fun fact: ... I don't drink much coffee for a coder 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h2> 🛠 &nbsp;Tech Stack</h2>
  
  
-  
    <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
