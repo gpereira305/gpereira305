@@ -4,8 +4,7 @@
 
 - 🔨 I’m currently working on ... Frontend projects
 - 👨‍💻 I’m currently learning ... JavaScript, TypeScript, React, NextJS and Node.JS
-- 👯 I’m looking to collaborate on ... JavaScript, TypesScript, React, Next and Vue JS projects 
-- 📫 How to reach me: ... giovanepereira.dev@gmail.com, (41)989019065 - Whatsapp 
+- 👯 I’m looking to collaborate on ... JavaScript, TypesScript, React, Next and Vue JS projects  
 - ❤️ My Passion ... Programming, Artificial Intelligence and Astronomy
 - 🎮 My free time ... Reading history books and playing video games 
 - 🤣 Fun fact: ... I don't drink much coffee
