@@ -10,7 +10,7 @@
 - 📫 How to reach me: ... giovanepereira.dev@gmail.com, (41)989019065 - Whatsapp 
 - ❤️ My Passion ... Programming, Artificial Intelligence and Astronomy
 - 🎮 My free time ... Reading history books and playing video games 
-- 🤣 Fun fact: ... I don't drink much coffee for a coder 
+- 🤣 Fun fact: ... I don't drink much coffee
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
  
