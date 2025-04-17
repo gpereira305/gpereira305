@@ -25,7 +25,6 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
    </div> 
 
-   <h2>🔔 How to reach me</h2>
 
    <h2>👨 Socials </h2>
    <div> 
